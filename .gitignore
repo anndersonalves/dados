@@ -1,0 +1,14 @@
+# Segredos: nunca versionar
+.env
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.pytest_cache/
+
+# Editor / sistema
+.vscode/
+.idea/
+.DS_Store
